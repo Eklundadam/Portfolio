@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adam! <br/><a href="https://github.com/Eklundadam">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Adam! <br/><a href="https://github.com/Eklundadam">Programmer</a>, <a href="https://www.linkedin.com/in/adam-eklund-4737a8163/">Financial Data Analyst</a>,
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
