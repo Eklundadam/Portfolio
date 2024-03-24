@@ -8,5 +8,5 @@
   
 <h2> Connect with me: </h2>
 <h3> AnaWrban19@gmail.com</h3>
-<h3 href = "https://www.linkedin.com/in/ana-vrban-005390144/" > LinkedIn</h3>
+<h3 <a>href = "https://www.linkedin.com/in/ana-vrban-005390144/" > LinkedIn</a></h3>
 
