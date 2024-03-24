@@ -1,5 +1,5 @@
 <h1>Hi, I'm Adam! <br/><a href="https://github.com/Eklundadam">Financial Data Analyst</a>, <a href="https://www.linkedin.com/in/adam-eklund-4737a8163/">Financial Data Analyst</a>,
-<h1 href="https://www.linkedin.com/in/ana-vrban-005390144/"> Hi! Welcome to Ana's Portfolio <br/><a href="https://github.com/Anavrban"> | Aspiring HR- & People Analytics Specialist</a>, <a Financial Data Analyst</a>,
+<h1>Hi! Welcome to Ana's Portfolio <br/><a href"https://www.linkedin.com/in/ana-vrban-005390144/"> | Aspiring HR- & People Analytics Specialist</a>, <a Financial Data Analyst</a>,
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
