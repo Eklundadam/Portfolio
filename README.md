@@ -4,7 +4,8 @@
 
 
 - <b>HR Analytics Dashboard | Descriptive analysis of attrition data</b>
-  - <b> [Power BI Dashboard](https://github.com/AnaVrban/Portfolio) </b>
+  - <a> [Power BI Dashboard](https://github.com/AnaVrban/Portfolio) </a>
+  - <a> [Power BI Dashboard](https://github.com/AnaVrban/Portfolio) </a>
   
 <h2> Connect with me: </h2>
 <a> AnaWrban19@gmail.com</a>
