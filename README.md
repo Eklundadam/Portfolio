@@ -1,6 +1,6 @@
 <h1>Hi! Welcome to 
           <a href = "https://www.linkedin.com/in/ana-vrban-005390144/"> Ana Vrban's</a> 
-          Portfolio</h1><h2>|  Aspiring HR- & People Analytics Specialist</h3>  
+          Portfolio</h1><h4> Aspiring HR- & People Analytics Specialist</h4>  
 
 
 - <b>HR Analytics Dashboard | Descriptive analysis of attrition data</b>
