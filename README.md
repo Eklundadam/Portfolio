@@ -1,6 +1,6 @@
 <h1>Hi! Welcome to 
-          <a href = "https://www.linkedin.com/in//"> Adam's Financial Analytics PortfolioVrban's</a> 
-          Portfolio</h1>          
+          <a href = "https://www.linkedin.com/in//"> Adam's </a> 
+          Financial Analytics Portfolio </h1>          
 
 - <b>X | X analysis of X</b>
   - <a> [Power BI Dashboard](https://github.com/EklundAdam/Portfolio) </a>
