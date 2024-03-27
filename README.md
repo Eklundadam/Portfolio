@@ -4,6 +4,9 @@
 
 - <b>X | X analysis of X</b>
   - <a> [Power BI Dashboard](https://github.com/EklundAdam/Portfolio) </a>
+
+- <b> Papers | Using Machine Learning techniques for prediction </b>
+  - <a> [Predicting Asset Prices with Machine Learning] (https://github.com/Eklundadam/Portfolio.github.io/blob/main/Bachelor%20Thesis%20-%20Predicting%20Asset%20Prices.pdf)</a>
   
 <h2> Connect with me: </h2>
 <a> Adameklund518@gmail.com</a>
