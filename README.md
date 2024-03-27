@@ -1,14 +1,11 @@
 <h1>Hi! Welcome to 
-          <a href = "https://www.linkedin.com/in/ana-vrban-005390144/"> Ana Vrban's</a> 
+          <a href = "https://www.linkedin.com/in//"> Adam's Financial Analytics PortfolioVrban's</a> 
           Portfolio</h1>          
-          <h2> | Aspiring HR- & People Analytics Specialist</h2>
 
-
-- <b>HR Analytics Dashboard | Descriptive analysis of attrition data</b>
-  - <a> [Power BI Dashboard](https://github.com/AnaVrban/Portfolio) </a>
-  - <a> [Power BI Dashboard](https://github.com/AnaVrban/Portfolio) </a>
+- <b>X | X analysis of X</b>
+  - <a> [Power BI Dashboard](https://github.com/EklundAdam/Portfolio) </a>
   
 <h2> Connect with me: </h2>
-<a> AnaWrban19@gmail.com</a>
-<a href = "https://www.linkedin.com/in/ana-vrban-005390144/" > LinkedIn</a>
+<a> Adameklund518@gmail.com</a>
+<a href = "https://www.linkedin.com/in/adam-eklund-4737a8163/"> LinkedIn</a>
 
