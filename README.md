@@ -6,9 +6,10 @@
   - <a> [Power BI Dashboard](https://github.com/EklundAdam/Portfolio) </a>
 
 <h2> Papers </h2>
-<b> </b>
+<b> 
    - <a> Master Thesis <a href = "https://github.com/Eklundadam/Portfolio.github.io/blob/main//Master%20Thesis%20-%20Predicting%20Financial%20Distress.pdf"> [Predicting Financial Distress with Machine Learning] </a></a>
    - <a> Bachelor Thesis | <a href = "https://github.com/Eklundadam/Portfolio.github.io/blob/main/Bachelor%20Thesis%20-%20Predicting%20Asset%20Prices.pdf"> [Predicting Asset Prices with Machine Learning] </a></a>
+   </b>
   
 <h2> Connect with me: </h2>
 <a> Adameklund518@gmail.com</a>
