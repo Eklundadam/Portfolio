@@ -16,5 +16,5 @@
 ---
 
 ## Connect with me:
-✉️ [Adameklund518@gmail.com](mailto:Adameklund518@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-eklund-4737a8163/)
+- [✉️](mailto:Adameklund518@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-eklund-4737a8163/)
