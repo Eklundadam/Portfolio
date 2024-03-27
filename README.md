@@ -1,4 +1,4 @@
-# Hi there! Welcome to [Adam's Financial Analytics Portfolio](https://www.linkedin.com/in/adam-eklund-4737a8163/)
+# Hi there! Welcome to [Adam's](https://www.linkedin.com/in/adam-eklund-4737a8163/) Financial Analytics Portfolio
 
 ---
 
