@@ -1,13 +1,3 @@
-<style>
-  body {
-    background-color: #f4f4f4;
-    color: #333;
-  }
-  h1, h2 {
-    color: #007bff;
-  }
-</style>
-
 # Hi there! Welcome to [Adam's Financial Analytics Portfolio](https://www.linkedin.com/in/adam-eklund-4737a8163/)
 
 ---
@@ -27,5 +17,6 @@
 
 ## Connect with me:
 
-- [Adameklund518@gmail.com](mailto:Adameklund518@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/adam-eklund-4737a8163/)
+- ✉️ [Adameklund518@gmail.com](mailto:Adameklund518@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-eklund-4737a8163/)
+
