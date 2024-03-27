@@ -1,6 +1,6 @@
 # Hi there! Welcome to [Adam's](https://www.linkedin.com/in/adam-eklund-4737a8163/) Portfolio
 
----
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=YOUR_REPORT_ID_HERE" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Project: X | X analysis of X
 
